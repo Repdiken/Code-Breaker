@@ -39,4 +39,4 @@ Debug and resolve logical errors during the development process.
 Structure Code Efficiently:
 Write clean, maintainable code with modular functions.
 
-This project is licensed under the CC0 License. Feel free to use, modify, and distribute the code. See the LICENSE file for more details.
+This project is licensed under the CC0 License. Feel free to use, modify, and distribute the code.
